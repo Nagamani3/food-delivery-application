@@ -1,0 +1,290 @@
+@import url("https://pro.fontawesome.com/releases/v5.10.0/css/all.css");
+
+#navbarNav {
+    justify-content: flex-end;
+    margin-right: 100px;
+    color:rgb(204, 0, 41)
+}
+.container-fluid{
+    margin-left: 100px;
+    margin-bottom: 180x;
+}
+#badge{
+    background: -webkit-linear-gradient(#ff0000, #6f6060);
+    top: -16px;
+    font-size: 16px;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.foodia a{
+    font-size: 30px;
+    background: -webkit-linear-gradient(#ff0000, #6f6060);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bolder;
+    text-decoration: none;
+   
+}
+.foodia{
+    margin-bottom: 10px;
+}
+#textarea{
+    width:100%;
+    border-radius: 4px;
+    border-color: rgba(0, 0, 0, 0.137);
+}
+.navbar-nav li a {
+    color:black;
+    font-size: large;
+    
+}
+.navbar-nav li a:hover{
+    background: -webkit-linear-gradient(#ff0000, #6f6060);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight:bolder;
+}
+
+.btn{
+    background-color: red;
+    color: white;
+}
+.color{
+    color: rgb(0, 0, 0);
+    
+
+}
+
+.navbar{
+    background: #fff;
+    height: 50px;
+    box-shadow: #868686;
+    filter:drop-shadow();
+    
+}
+ 
+
+#slider article div {
+   
+   height:390px;
+   width: 100%;
+
+}
+#slider article div img{
+    background-size: cover;
+    z-index: -1;
+}
+
+
+
+#slider2 article{
+    
+    height: 300px; 
+
+}
+
+
+#googleauthentication button{
+    display: flex;
+    margin-left: 543px;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    width:300px;
+    border-radius: 20px;
+    background:rgb(50, 70, 253);
+    color: white;
+    margin-top: 20px;
+
+}
+#line{
+    border-bottom: 1px solid rgba(0, 0, 0, 0.493);
+    width:30%;
+    margin-left: 480px;
+    margin-bottom: 50px;
+}
+#lines{
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+
+#card2{
+    height:300px;
+    width:40%;
+  background-image: url("https://cdn.dribbble.com/users/1890021/screenshots/8576649/foodbiker-dribbble_thumb.gif");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: contain;
+    background-repeat: no-repeat; 
+
+}
+
+.cards{
+    display: flex;
+}
+#fooddelivery{
+font-weight: bold;
+    margin-top: 14px;
+    font-size: 50px;
+    text-transform: capitalize;
+    color: rgb(7, 7, 54);
+    width: 89%;
+    
+}
+
+#card1{
+    height:350px;
+    width:100%;
+  background-image: url("https://cdn.pixabay.com/photo/2016/12/08/15/45/panda-1892023_960_720.png");
+    /* margin-left:800px;  */
+    background-position: 821px;
+    align-items: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    
+    
+}
+#card1 h1{
+    margin-right: 500px;
+}
+#slider1 article{
+    
+    height: 350px; 
+
+}
+#fooddelivery1{
+  font-weight: bold;
+    margin-top: 40px;
+    font-size: 50px;
+    margin-left: 100px;
+    color: rgb(7, 7, 54);
+    
+}
+#foodclk{
+      margin-left: 100px;
+      font-size: 20px;
+      font-weight: bold;  
+      color: #380606;
+    
+  }
+  #card2 a {
+      text-decoration: none;
+      color: rgb(255, 202, 202);
+  }
+  #bellyrules{
+    margin-top: 100px;
+    background: -webkit-linear-gradient(#ff0000, #6f6060);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    
+  }
+  #quote{
+      margin-left: 88px;
+width:50%;
+background: -webkit-linear-gradient(#ff0000, #6f6060);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: lighter;
+  }
+.slide3 {
+    height: 300px;
+    width: 100%;
+    background-color: #fff;
+}  
+.slide3 article div img{
+    background-size:contain;
+    height: 300px;
+    margin-left: 800px;
+}
+.slide3 article div h1{
+    font-weight: bold;
+    margin-top: 60px;
+    font-size: 50px;
+    margin-left: 88px;
+    color: rgb(7, 7, 54);
+    width: 50%;
+}
+.slide3 article div{
+    height:300px;
+    width:100%;
+  background-image: url("https://sales.resdiary.com/wp-content/uploads/2019/07/Sales_Carousel_002-No_shows.gif");
+    /* margin-left:800px;  */
+    background-position: 766px;
+    align-items: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+    
+
+}
+.slide3 article div p{
+    margin-left: 100px;
+      font-size: 20px;
+      font-weight: bold;  
+      color: #ff0000;
+      width:48%;
+
+}
+#slide1btn{
+    display: flex;
+    margin-left: 100px;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    width:400px;
+    border-radius: 20px;
+    background: -webkit-linear-gradient(#ff0000, #6f6060);
+    /* -webkit-background-clip: text; */
+     /* -webkit-text-fill-color: transparent; */
+    color: white; 
+    margin-top: 20px;
+ font-weight:normal;
+ text-transform: capitalize;font-size: 18px;
+ border-color: white;
+ 
+
+}
+.cards a{
+    text-decoration: none;
+}
+.page-footer{
+    height:300px;
+     background:rgb(251, 251, 251)
+}
+.container ul li a i{
+    font-size: 30px;
+    background: -webkit-linear-gradient(#ff0000, #6f6060);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+#footercontent p{
+    width:80%;
+    margin: auto 0;
+    margin-left: 151px;
+    
+}
+.nav-link{
+    background: -webkit-linear-gradient(#000000, #6f6060);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+#margin{
+    border-bottom: 1px solid #0000002e;
+    width: 80%;
+    margin-left: 135px;
+    margin-bottom: 40px;
+    margin-top: 42px;
+}
+#about{
+    font-size: 30px;
+    color: #ff0000;
+    margin-bottom: 20px;
+
+}

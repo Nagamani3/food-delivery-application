@@ -1,0 +1,68 @@
+.home{
+    margin:0 auto;
+    max-width:1000px;
+    display: grid;
+    grid-template-columns: repeat(3 ,1fr);
+    gap:20px;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+.card{
+    box-shadow: 0 0 3px  rgb(63, 61, 61);
+  
+}
+.card-body button{
+    background: -webkit-linear-gradient(#ff0000, #6f6060);
+   color:white;
+}
+
+#text{
+    width: 50%;
+    margin-bottom: 30px;
+}
+#chef img{
+    margin-left: 930px;
+    margin-top: 36px;
+    width: 27%;
+}
+.card-text3 img{
+    width: 20%;
+    height: 44px;
+
+}
+.myorders{
+    margin: 0 auto;
+    background-color: azure;
+    height: 100vh;
+    width: 80%;
+    
+}
+.myorders article div{
+    display:flex;
+}
+#right{
+    margin-left: 13x;
+    margin-bottom: 219px;
+}
+#right div{
+    margin-left: 197px;
+
+}
+#right div span{
+    width:100px;
+    height: 40px;
+    background-color: rgb(255, 255, 255);
+    padding-left: 27px;
+    padding-top: 8px;
+}
+#right button{
+    font-size: bold;
+    background: -webkit-linear-gradient(#ff0000, #6f6060);
+    -webkit-text-fill-color: white;
+}
+
+#left div img{
+    width:79%;
+    height: 300px;
+  
+}
